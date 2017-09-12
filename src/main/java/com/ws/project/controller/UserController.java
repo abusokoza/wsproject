@@ -21,7 +21,7 @@ public class UserController {
 
 	@RequestMapping(value="/")
 	public String hello() {
-		return "Hello World!";
+		return "Hello World.";
 	}
 	
 	@RequestMapping(value="/all")
