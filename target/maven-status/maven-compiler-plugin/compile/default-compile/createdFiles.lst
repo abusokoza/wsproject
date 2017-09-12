@@ -1,0 +1,7 @@
+com/ws/project/service/UserService.class
+com/ws/project/DevAppConfig.class
+com/ws/project/AppConfig.class
+com/ws/project/domain/User.class
+com/ws/project/service/impl/UserServiceImpl.class
+com/ws/project/controller/UserController.class
+com/ws/project/dao/UserDao.class
